@@ -21,6 +21,7 @@ const App = () => {
       <div className='relative z-0'>
         {/* <Contact /> */}
         <Links />
+        Foda-se
       </div>
     </div>
     </BrowserRouter>
