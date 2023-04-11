@@ -1,9 +1,9 @@
 {
+  "homepage": "https://whooooooooooooo.github.io/testing-portfolio",
   "name": "3d-portfolio",
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://coffeeprynce.github.io/3d-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --out-dir build",
