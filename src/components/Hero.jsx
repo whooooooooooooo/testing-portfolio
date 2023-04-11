@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 import {styles } from '../styles';
 import { ComputersCanvas } from './canvas';
-import herobanner from '../assets/profilepic.jpg';
+import herobanner from '/profilepic.jpg';
 import { AdamCanvas } from './canvas';
 
 
